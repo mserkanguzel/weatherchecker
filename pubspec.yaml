@@ -31,6 +31,10 @@ dependencies:
   flutter:
     sdk: flutter
 
+  # Used dio for network process
+  dio: ^5.4.2+1
+  # Used bLoc pattern for state management
+  flutter_bloc: ^8.1.5
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
