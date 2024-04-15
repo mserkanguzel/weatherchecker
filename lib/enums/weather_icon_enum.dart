@@ -1,0 +1,12 @@
+enum WeatherIcon {
+  SUNNY,
+  PARTIAL_CLOUDS,
+  CLOUDY,
+  RAIN,
+  THUNDERSTORM_RAIN,
+  SNOW,
+  WINDY;
+}
+
+
+
